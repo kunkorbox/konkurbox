@@ -1,0 +1,1373 @@
+{
+ "app": "konkur-box-feed",
+ "version": 1,
+ "updated": "2026-11-14T13:50:00.272Z",
+ "teachers": [
+  {
+   "id": "farahani",
+   "name": "پارسا فراهانی",
+   "subject": "شیمی",
+   "style": "white",
+   "folders": [
+    {
+     "name": "سالانه",
+     "lessons": [
+      {
+       "title": "جلسه 1",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://www.aparat.com/v/rers497"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 2",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://www.aparat.com/video/video/embed/videohash/pjpkkc1/vt/frame"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 3",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/fezvopyikfwr/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/pzvhgplyfkjk/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/5e74d7hsseca/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 4",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/mn7mpraynhsz/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/kdfkixxeqpd9/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 5",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/qrrv2i2jhvtp/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/faoh61yhzjeb/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/rlrcnh7fadva/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 6",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/l2spflabrf5j/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/kzhcuw6cjgwn/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/7e5n405ry3ly/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 7",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/c3gewduvvqa6/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/gr0ykxpctbfb/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/dtqdfim1hors/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 8",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/utqsv4fchc7r/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/e1v7a1niyjpx/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/eokrykcj1uft/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 9",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/d2xhsmzkzaii/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/1kh567rgpcqj/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/hhbuyibw7mtz/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 10",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/koq3zslxoxvf/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/cuews1itafvp/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/zk7osnxr1qgi/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 11",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/tjkycpajxv0s/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/denvejurwcyg/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/od5apea9rxwl/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 12",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/ngyokqtyqese/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/zi0if8bre83n/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/ywnxnehgbwvf/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 13",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/8hhi2d7mcou7/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/8hhi2d7mcou7/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/chbi2plgxhxk/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 14",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/d173mmipw8ku/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/grqgmkax5krk/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/1qn8vtc3n2b6/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 15",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/rt67evp8t3ax/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/ikaatgyg9a8j/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/zdz5qhhyywrm/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 16",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/d46dzfkqe4tw/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/9qtcnjlwoiih/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/honh5ox4gqal/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 17",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://www.aparat.com/video/video/embed/videohash/hbt1k8c/vt/frame"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://www.aparat.com/video/video/embed/videohash/xmj5hdg/vt/frame"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://www.aparat.com/video/video/embed/videohash/mav1843/vt/frame"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 18",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://www.aparat.com/video/video/embed/videohash/krdxqkv/vt/frame"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://www.aparat.com/video/video/embed/videohash/lmqssno/vt/frame"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 19",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/nkll0f13xfrs/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/gwjgq1rdcukz/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/lrdd6hd542ca/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 20",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/6r3lrjjmwav3/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/wihg1esz0k5a/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/rh5yhwuj5sz1/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 21",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/4tqxozwel2gw/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/wuvefmcojanq/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/cwor2nmpmvry/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 22",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/54sa4wvwnzla/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/a1s7pblivctu/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/okxxvhfsosvc/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 23",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/1pr0l0murxc2/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/elxymj04dg0v/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/lad9sh4brsir/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 24",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/p3k5snadeirp/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/fcrz95ilfy59/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/oxhrenvyiwn2/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 25",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.titanmates.com/z8j5nbc1wobh/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.titanmates.com/wo79mpysqada/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.titanmates.com/99jh9bkx0hub/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 26",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/kfyiydgbnmhp/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.kheilisabz360.com/at4wenbzi6ab/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.kheilisabz360.com/dvvfm2u6l0k4/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 27",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/57o7tjxcxinh/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.kheilisabz360.com/ynzixxw6qvwa/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.kheilisabz360.com/pw5h9t59wmvf/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 28",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/uprlg1suljaf/iframe"
+        },
+        {
+         "label": "سکشن 2",
+         "url": "https://stream.kheilisabz360.com/in6ofxvu9zuc/iframe"
+        },
+        {
+         "label": "سکشن 3",
+         "url": "https://stream.kheilisabz360.com/3y2jifqqmcs3/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 29",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 30",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 31",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 32",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 33",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 34",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 35",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 36",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 37",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 38",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 39",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 40",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 41",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 42",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 43",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 44",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 45",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 46",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 47",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 48",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 49",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 50",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        },
+        {
+         "label": "سکشن 2",
+         "url": ""
+        },
+        {
+         "label": "سکشن 3",
+         "url": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ghazati",
+   "name": "امیر قُضاتی",
+   "subject": "فیزیک",
+   "style": "navy",
+   "folders": [
+    {
+     "name": "سالانه",
+     "lessons": [
+      {
+       "title": "جلسه 0",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/icv0eria74jh/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 1",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/fxd83fzfcjnd/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 2",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/9vap7xpd7vt5/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 3",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/xaog2kazqnjv/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 4",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/pmkp5q15qign/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 5",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/iwx7qpf1eoxd/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 6",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/jsnfuoduwbkg/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 7",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/z8qlcbrgch9i/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 8",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/cf35mw1t51xk/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 9",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/2b9nkg9bz4h6/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 10",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/3q2wn0vqsfza/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 11",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/osr1fpda368x/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 12",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/7pskghk0qsye/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 13",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/qr34wa3lqxeh/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 14",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/fnc9dlx2gadx/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 15",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/xz1bkym7y4y8/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 16",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/fyg0fsbzs81n/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 17",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/hndvsfd6ffjz/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 18",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/95zdm9t756sr/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 19",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/xbn9babvatrt/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 20",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/1c6b649q6ecv/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 21",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/grpzqvqpsmgu/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 22",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/gmvlft1df77z/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 23",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/gjeijyitalka/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 24",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": "https://stream.kheilisabz360.com/w3pqlbwreusz/iframe"
+        }
+       ]
+      },
+      {
+       "title": "جلسه 25",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 26",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 27",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 28",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 29",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 30",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 31",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 32",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 33",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 34",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 35",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 36",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 37",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 38",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 39",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 40",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 41",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 42",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 43",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 44",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 45",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 46",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 47",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 48",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 49",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      },
+      {
+       "title": "جلسه 50",
+       "parts": [
+        {
+         "label": "سکشن 1",
+         "url": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "دورتند",
+     "lessons": [
+      {
+       "title": "دورتند حرکت‌شناسی",
+       "parts": [
+        {
+         "label": "بخش 1",
+         "url": "https://stream.kheilisabz360.com/58nnye66ocrm/iframe"
+        },
+        {
+         "label": "بخش 2",
+         "url": "https://stream.kheilisabz360.com/fyv9ykjt9fce/iframe"
+        },
+        {
+         "label": "بخش 3",
+         "url": "https://stream.kheilisabz360.com/rco96cchtadh/iframe"
+        },
+        {
+         "label": "بخش 4",
+         "url": "https://stream.kheilisabz360.com/cmui3eav9kud/iframe"
+        },
+        {
+         "label": "بخش 5",
+         "url": "https://stream.kheilisabz360.com/seyoptsmtpn6/iframe"
+        },
+        {
+         "label": "بخش 6",
+         "url": "https://stream.kheilisabz360.com/aymg9l7apbd9/iframe"
+        }
+       ]
+      },
+      {
+       "title": "دورتند دما و گرما",
+       "parts": [
+        {
+         "label": "بخش 1",
+         "url": "https://stream.kheilisabz360.com/sq9fb4kuoi5r/iframe"
+        },
+        {
+         "label": "بخش 2",
+         "url": "https://stream.kheilisabz360.com/2o3jvl2q7769/iframe"
+        },
+        {
+         "label": "بخش 3",
+         "url": "https://stream.kheilisabz360.com/geexvbcfo1q9/iframe"
+        },
+        {
+         "label": "بخش 4",
+         "url": "https://stream.kheilisabz360.com/6occxdzminca/iframe"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
